@@ -31,22 +31,22 @@
 
 **Базовые знания содержат введение по работе с сетями, системами Linux, виртуализацией, созданием лабораторий, написанием скриптов, а также темами информационной безопасности. Если вы знакомы с этими темами, вы можете сразу перейти к модулю Этического взлома.**
 
-* [Networking 101](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md)
-* [Lab Building / Virtualization](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/1-Lab-Building.md)
-* [Introduction to Linux](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/2-Intro-to-Linux.md)
-* [Scripting]
-* [Information Security 101](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/4-Infosec-101.md)
+* [Сеть 101](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md)
+* [Создание лаборатории / Виртуализация](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/1-Lab-Building.md)
+* [Введение в Linux](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/2-Intro-to-Linux.md)
+* [Скриптование]
+* [Информационная безопасность 101](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/4-Infosec-101.md)
 
-## ⚔️ Ethical Hacking
-1. **Footprinting and Reconnaissance**
-    * [Introduction](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/1-Footprinting-and-Reconnaissance/0-What-is-Footprinting.md)
-    * [Windows command line](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/1-Footprinting-and-Reconnaissance/1-Windows-CommandLine.md)
-    * [Maltego basics](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/1-Footprinting-and-Reconnaissance/2-Maltego-Basics.md)
+## ⚔️ Этичный Хакинг
+1. **Футпринтинг и Разведка**
+    * [Введение](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/1-Footprinting-and-Reconnaissance/0-What-is-Footprinting.md)
+    * [Командная строка Windows](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/1-Footprinting-and-Reconnaissance/1-Windows-CommandLine.md)
+    * [Основы Maltego](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/1-Footprinting-and-Reconnaissance/2-Maltego-Basics.md)
     * [Recon-ng](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/1-Footprinting-and-Reconnaissance/3-Recon-ng.md)
     * [OSRFramework](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/1-Footprinting-and-Reconnaissance/4-OSRFramework.md)
     * [Metasploit](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/1-Footprinting-and-Reconnaissance/5-Metasploit-Basics.md)
     * [theHarvester](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/1-Footprinting-and-Reconnaissance/6-theHarvester.md)
-    * [Another tools for Recon](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/1-Footprinting-and-Reconnaissance/7-Other-Tools.md)
+    * [Прочие инструменты для Разведки](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/1-Footprinting-and-Reconnaissance/7-Other-Tools.md)
 2. **Scanning Networks**
     * [Introduction](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/2-Scanning-Networks/0-Scanning-a-Target-Network.md)
     * [hping3](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/2-Scanning-Networks/1-hping3.md)
