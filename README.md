@@ -12,11 +12,11 @@
 
 Данная подборка туториалов и лаб сделана сугубо для людей изучающих этичный хакинг, кибербезопасность, сеть и системное администрирование. Эти туториалы приводят информацию содержащуюся на [CEH](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh-v12/) и прочих источников из интернета.
 
-⌨️ The tutorials is very practical/hands-on. Don't worry if you are a completely noob, you don't need to be an expert to start learn ethical hacking. **Google is always your best friend.** This repo will guide you very carefully from basics to more advanced techniques.
+⌨️ Данные туториалы ориентированы на практическую составляющую. Не волнуйтесь, если вы полный нуб, вам не нужно быть техножрецом 80+ лвл, чтобы начать изучение этичного хакинга. **Помните, Гугл - ваш лучши друг.** Этот репозиторий проведёт вас по пути от самых основ до более продвинутых приёмов.
 
-**✅ Prerequisites**:
-* Any computer with at least 8GB RAM (16GB recommended)
-* At least 80GB of free disk space available
+**✅ Системные требования**:
+* Любой компьютер с как минимум 8ГБ RAM (рекомендуется 16ГБ)Any computer with at least 8GB RAM (16GB recommended)
+* Хотя бы 80ГБ свободного места на вашем жёстком диске
 * Hardware-based virtualization support
 
 * * *
