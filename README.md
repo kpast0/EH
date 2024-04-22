@@ -17,19 +17,19 @@
 **✅ Системные требования**:
 * Любой компьютер с как минимум 8ГБ RAM (рекомендуется 16ГБ)Any computer with at least 8GB RAM (16GB recommended)
 * Хотя бы 80ГБ свободного места на вашем жёстком диске
-* Hardware-based virtualization support
+* Аппаратная поддержка виртуализации
 
 * * *
 
-> **⚠️ Disclaimer**:
-*This is purely for educational purposes only. DO NOT try these techniques with any public network. Because if you are find guilty for causing any harm to any individual, government, corporate body, non-profit etc you will be sued with serious charges of cyber crime. I recommend you to practice the lessons in this course on your owned system and your own data in a private or local network.*
+> **⚠️ Дисклеймер**:
+*Данный материал предоставлен сугубо в академических целях. НЕ используйте следующие техники в любых публичных сетях. Потому как, если вас признают виновным в причинении какого-либо вреда какому-либо лицу, правительству, корпоративному органу, некоммерческой организации и т. д., вам будет предъявлен иск по обвинению в киберпреступлении/ях. Я рекомендую вам попрактиковаться в уроках этого курса на вашей собственной системе и ваших собственных данных в частной или локальной сети.*
 
 * * * 
 
-## ⚙️ Core Knowledge
-First things first, you really need to understand how things work before start to disassembly and look for vulnerable components. The more you understand how things works, a better hacker you'll be. The 'Core Knowledge' (module 0) is just a jumpstart to these topics.
+## ⚙️ Базовые знания
+Итак, для начала вам нужно разобраться как всё работает, прежде чем приступать к разборке и поиску уязвимостей. Чем больше вы поймёте, тем более хорошим хацкером вы станете. "Базовые знания" (модуль 0) представляет собой быстрый ввод в курс дела.
 
-**Core Knowledge provides a jumpstart to networking, linux systems, virtualization, lab building, scripting and also information security topics. If you are familiar on these topics you can skip it straight to Ethical Hacking module.**
+**Базовые знания содержат введение по работе с сетями, системами Linux, виртуализацией, созданием лабораторий, написанием скриптов, а также темами информационной безопасности. Если вы знакомы с этими темами, вы можете сразу перейти к модулю Этического взлома.**
 
 * [Networking 101](https://github.com/Samsar4/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md)
 * [Lab Building / Virtualization](https://github.com/Samsar4/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/1-Lab-Building.md)
