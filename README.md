@@ -3,10 +3,13 @@
 
 ![h](https://gist.githubusercontent.com/Samsar4/62886aac358c3d484a0ec17e8eb11266/raw/89f706846f97cd3e59880dbc03e4f1d5f8023783/header-ehl.jpg)
 
-# <p align="center">ДИСКЛЕЙМЕР
-</p>
+* * *
 
-Данный репозиторий является ни чем инным как адоптацией(локализцией) оригинального репозитория на русский язык. 
+> **⚠️ ДИСКЛЕЙМЕР**:
+*Данный репозиторий является ни чем инным как "фанатской" адоптацией(локализцией) оригинального репозитория на русский язык.*
+
+* * * 
+
 
 This is a collection of tutorials and labs made for  ethical hacking students, cybersecurity students, network and sys-admins. These tutorials accompany the resources of CEH content and different resources across the internet.
 
