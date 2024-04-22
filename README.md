@@ -10,8 +10,7 @@
 
 * * * 
 
-
-This is a collection of tutorials and labs made for  ethical hacking students, cybersecurity students, network and sys-admins. These tutorials accompany the resources of CEH content and different resources across the internet.
+Данная подборка туториалов и лаб сделана сугубо для людей изучающих этичный хакинг, кибербезопасность, сеть и системное администрирование. Эти туториалы приводят информацию содержащуюся на CEH (https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh-v12/) и прочих источников из интернета.
 
 ⌨️ The tutorials is very practical/hands-on. Don't worry if you are a completely noob, you don't need to be an expert to start learn ethical hacking. **Google is always your best friend.** This repo will guide you very carefully from basics to more advanced techniques.
 
