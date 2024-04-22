@@ -32,10 +32,10 @@
 **Базовые знания содержат введение по работе с сетями, системами Linux, виртуализацией, созданием лабораторий, написанием скриптов, а также темами информационной безопасности. Если вы знакомы с этими темами, вы можете сразу перейти к модулю Этического взлома.**
 
 * [Сеть 101](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md)
-* [Создание лаборатории / Виртуализация](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/1-Lab-Building.md)
+* [Создание Лаборатории / Виртуализация](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/1-Lab-Building.md)
 * [Введение в Linux](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/2-Intro-to-Linux.md)
 * [Скриптование]
-* [Информационная безопасность 101](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/4-Infosec-101.md)
+* [Информационная Безопасность 101](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/4-Infosec-101.md)
 
 ## ⚔️ Этичный Хакинг
 1. **Футпринтинг и Разведка**
@@ -47,24 +47,24 @@
     * [Metasploit](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/1-Footprinting-and-Reconnaissance/5-Metasploit-Basics.md)
     * [theHarvester](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/1-Footprinting-and-Reconnaissance/6-theHarvester.md)
     * [Прочие инструменты для Разведки](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/1-Footprinting-and-Reconnaissance/7-Other-Tools.md)
-2. **Scanning Networks**
-    * [Introduction](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/2-Scanning-Networks/0-Scanning-a-Target-Network.md)
+2. **Сканирование Сетей**
+    * [Введение](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/2-Scanning-Networks/0-Scanning-a-Target-Network.md)
     * [hping3](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/2-Scanning-Networks/1-hping3.md)
-    * [Detect OS's by TTL using Wireshark](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/2-Scanning-Networks/2-TTL.md)
+    * [Определение ОС по TTL при помощи Wireshark](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/2-Scanning-Networks/2-TTL.md)
     * [Mega Ping](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/2-Scanning-Networks/3-MegaPing.md)
-    * [Nmap Basics](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/2-Scanning-Networks/4-Nmap.md)
-    * [Avoid Detection with Nmap](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/2-Scanning-Networks/5-NmapDecoyIP.md)
-    * [More Windows GUI Tools](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/2-Scanning-Networks/6-WindowsTools.md)
-3. **Enumeration**
-    * [Introduction](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/3-Enumeration/0-Introduction.md)
-    * [Enumeration with Nmap](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/3-Enumeration/1-Enumerating-with-Nmap.md)
-    * [SNMP Enumeration](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/3-Enumeration/2-SNMP-Enumeration.md)
+    * [Основы Nmap](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/2-Scanning-Networks/4-Nmap.md)
+    * [Избегаем обнаружения при помощи Nmap](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/2-Scanning-Networks/5-NmapDecoyIP.md)
+    * [Дополнительный графический инстурментарий Windows](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/2-Scanning-Networks/6-WindowsTools.md)
+3. **Перечисление**
+    * [Введение](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/3-Enumeration/0-Introduction.md)
+    * [Перечисление при помощи Nmap](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/3-Enumeration/1-Enumerating-with-Nmap.md)
+    * [Перечисление SNMP](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/3-Enumeration/2-SNMP-Enumeration.md)
     * [Enum4Linux](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/3-Enumeration/3-Enum4linux-Win-and-Samba-Enumeration.md)
-    * [More Windows GUI Tools](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/3-Enumeration/4-Windows-EnumerationTools.md)
-4. **Vulnerability Analysis**
-    * [Overview and Tools](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/4-Vulnerability-Analysis/Overview-and-Tools.md) 
-5. **System Hacking**
-    * [Introduction](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/5-System-Hacking/0-Introduction.md)
+    * [Дополнительный графический инстурментарий Windows](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/3-Enumeration/4-Windows-EnumerationTools.md)
+4. **Анализ Уязвимостей**
+    * [Обзор и Инструментарий](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/4-Vulnerability-Analysis/Overview-and-Tools.md) 
+5. **Взлом Систем**
+    * [Введение](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/5-System-Hacking/0-Introduction.md)
     * [LLMNR / NBT-NS Spoofing](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/5-System-Hacking/1-LLMNR-NBT-NS.md)
     * [Dumping and Cracking SAM hashes](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/5-System-Hacking/2-SAM-Hashes.md)
     * [Rainbow Tables](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/5-System-Hacking/3-Rainbow-tables.md)
