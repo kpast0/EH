@@ -6,9 +6,9 @@
 
 ### **Этот модуль придерживается следующего порядка:**
 1. [Введение](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#1-введение)
-2. [IP и MAC адреса]()
-3. Подсеть
-4. TCP, UDP и Трехстороннее рукопожатие
+2. [IP и MAC адреса](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#2-ip-и-mac-адреса)
+3. [Подсеть](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#3-subnetting)
+4. [TCP, UDP и Трехстороннее рукопожатие]()
 5. Порты & Протоколы
 6. Модель OSI
 
