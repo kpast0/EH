@@ -33,9 +33,9 @@
 
 * [Сеть 101](/0-Core-Knowledge/0-Networking-101.md)
 * [Создание Лаборатории / Виртуализация](/0-Core-Knowledge/1-Lab-Building.md)
-* [Введение в Linux](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/2-Intro-to-Linux.md)
+* [Введение в Linux](/0-Core-Knowledge/2-Intro-to-Linux.md)
 * [Скриптование]()
-* [Информационная Безопасность 101](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/4-Infosec-101.md)
+* [Информационная Безопасность 101](/0-Core-Knowledge/4-Infosec-101.md)
 
 ## ⚔️ Этичный Хакинг
 1. **Футпринтинг и Разведка**
