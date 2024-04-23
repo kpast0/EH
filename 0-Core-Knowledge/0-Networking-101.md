@@ -186,7 +186,7 @@ NAT stands for network address translation. It’s a way to map multiple local p
 
 ![osi3](https://gist.githubusercontent.com/Samsar4/62886aac358c3d484a0ec17e8eb11266/raw/b9d7f33be654d299f6618feeacb97fc5fd5bd7d2/OSI_L3.png)
 
-# 3. Subnetting
+# 3. Подсеть
 ### Why subnetting?
 The way IP addresses are constructed makes it relatively simple for Internet routers to find the right network to route data into. However, in a Class A network (for instance), there could be millions of connected devices, and it could take some time for the data to find the right device. This is why subnetting comes in handy: subnetting narrows down the IP address to usage within a range of devices.
 
