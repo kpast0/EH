@@ -6,7 +6,7 @@
 
 ### **Этот модуль придерживается следующего порядка:**
 1. [Введение](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#1-введение)
-2. IP и MAC адреса
+2. [IP и MAC адреса]()
 3. Подсеть
 4. TCP, UDP и Трехстороннее рукопожатие
 5. Порты & Протоколы
@@ -89,7 +89,7 @@ If you're using the TCP/IP stack and making your own LAN or WAN = Intranet.
 
 * **Internet service providers (ISP)**: companies that provide everyone with their internet connection, both to individuals and to businesses and other organizations.
 
-# 2. IP & MAC Address
+# 2. IP и MAC адреса
 ## What is an IP Address (Internet Protocol)?
 ![ip](https://media.fs.com/images/community/upload/wangEditor/201912/24/_1577182449_2uLs0pQcuT.jpg)
 
