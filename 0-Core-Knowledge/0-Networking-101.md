@@ -5,7 +5,7 @@
 * Понимание базовых сетевых концептов 
 
 ### **Этот модуль придерживается следующего порядка:**
-1. [Введение](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#1-введение)
+1. [Введение](/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#1-введение)
 2. [IP и MAC адреса](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#2-ip-и-mac-адреса)
 3. [Подсеть](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#3-подсеть)
 4. [TCP/UDP и Трехстороннее рукопожатие](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#4-tcpudp-и-трехстороннее-рукопожатие)
@@ -15,7 +15,7 @@
 # 1. Введение
 
 ## Да что, чёрт побери, такое эта ваша Сеть?
-A network consists of two or more computers that are linked in order to share resources. Computer networks are the basis of communication in IT. They are used in a huge variety of ways and can include many different types of network. A computer network is a set of computers that are connected together so that they can share information. The earliest examples of computer networks are from the 1960s, but they have come a long way in the half-century since then.
+Если в кратце, сеть состоит из 2х или более компьютеров, которые соединены, чтобы обмениваться данными. Компьютерные сети это базис коммуникации в IT. They are used in a huge variety of ways and can include many different types of network. A computer network is a set of computers that are connected together so that they can share information. The earliest examples of computer networks are from the 1960s, but they have come a long way in the half-century since then.
 
 ![net](https://gist.githubusercontent.com/Samsar4/62886aac358c3d484a0ec17e8eb11266/raw/5edc8fbef915a17c93fa91c95877134c8fac324c/net2.jpg)
 
