@@ -81,34 +81,34 @@
     * [Введение](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/6-Malware/0-Introduction.md)
     * [njRAT](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/6-Malware/1-Using-njRAT.md)
     * [HTTP RAT Троян](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/6-Malware/2-HTTP-Trojan.md)
-    * [Obfuscating a Trojan using SwayzCryptor](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/6-Malware/3-Obfuscating-Trojan-SwayzCryptor.md)
-    * [Malware Analysis Lab](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/6-Malware/4-Malware-Analysis-Lab.md)
-    * [Windows Tools](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/6-Malware/5-Windows-Tools.md)
-7. **Sniffing**
-    * [Introduction](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/7-Sniffing/0-Introduction.md)
-    * [MITM using BetterCAP](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/7-Sniffing/1-MITM-with-Bettercap.md)
-    * [MAC Address Spoofing](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/7-Sniffing/2-Spoofing-MAC-address.md)
-    * [Windows Tools](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/7-Sniffing/x-Windows-Tools.md)
-8. **Social Engineering**
-    * [Introduction](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/8-Social-Engineering/0-Introduction.md)
-    * [Using SET](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/8-Social-Engineering/1-Using-SET.md)
-    * [Tools](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/8-Social-Engineering/X-Tools.md)
-9. **Denial-of-Service**
-    * [Introduction](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/9-Denial-of-Service/0-Introduction.md)
-    * [SYN Flooding](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/9-Denial-of-Service/1-SYN-Flooding.md)
-    * [DDoS using HOIC](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/9-Denial-of-Service/2-DDoS-using-HOIC.md)
-    * [Detecting DoS Traffic](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/9-Denial-of-Service/3-Detecting-DoS-Traffic.md)
-10. **Session Hijacking**
-    * [Introduction](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/10-Session-Hijacking/0-Introduction.md)
-    * [Using ZAP - Zed Attack Proxy](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/10-Session-Hijacking/1-Using-ZAP.md)
-    * [Intercepting HTTP Traffic](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/10-Session-Hijacking/2-Intercepting-HTTP-Traffic.md)
-11. **Bonus - 🔬 The Forensic Approach**
+    * [Скрываем Троян с помощью SwayzCryptor](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/6-Malware/3-Obfuscating-Trojan-SwayzCryptor.md)
+    * [Лаба для анализа вирусни](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/6-Malware/4-Malware-Analysis-Lab.md)
+    * [Инструментарий для Windows](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/6-Malware/5-Windows-Tools.md)
+7. **Сниффинг**
+    * [Введение](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/7-Sniffing/0-Introduction.md)
+    * [MITM атака с помощью BetterCAP](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/7-Sniffing/1-MITM-with-Bettercap.md)
+    * [MAC адресс Спуфинг](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/7-Sniffing/2-Spoofing-MAC-address.md)
+    * [Инструментарий для Windows](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/7-Sniffing/x-Windows-Tools.md)
+8. **Социальныя инженерия**
+    * [Введение](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/8-Social-Engineering/0-Introduction.md)
+    * [Использования SET](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/8-Social-Engineering/1-Using-SET.md)
+    * [Инструментарий](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/8-Social-Engineering/X-Tools.md)
+9. **DoS атака**
+    * [Введение](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/9-Denial-of-Service/0-Introduction.md)
+    * [SYN Флудинг](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/9-Denial-of-Service/1-SYN-Flooding.md)
+    * [DDoS с помощью HOIC](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/9-Denial-of-Service/2-DDoS-using-HOIC.md)
+    * [Обнаружение трафика атаки DoS](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/9-Denial-of-Service/3-Detecting-DoS-Traffic.md)
+10. **Сессионное перехватывание**
+    * [Введение](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/10-Session-Hijacking/0-Introduction.md)
+    * [Использование ZAP - Zed Attack Proxy](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/10-Session-Hijacking/1-Using-ZAP.md)
+    * [Перехват HTTP трафика](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/10-Session-Hijacking/2-Intercepting-HTTP-Traffic.md)
+11. **Бонус - 🔬 Метод суд-мед эксперта**
     * [TCPDump](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/11-Bonus/TCPDump-Tutorial.md)
-    * [Dissecting Packets](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/11-Bonus/Dissecting-packets.md)
+    * [Анализ Пакетов](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/11-Bonus/Dissecting-packets.md)
     * [ExifTool](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/11-Bonus/ExifTool-Tutorial.md)
-    * [hdparm & dd command](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/11-Bonus/Using-hdparm-and-dd-command.md)
-    * [Recovering a Deleted Partition](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/11-Bonus/Recovering-Deleted-Partition.md)
-    * [Recovering Deleted Files](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/11-Bonus/Recovering-Deleted-Files.md)
+    * [hdparm & dd команды](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/11-Bonus/Using-hdparm-and-dd-command.md)
+    * [Восстановление удалённого раздела](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/11-Bonus/Recovering-Deleted-Partition.md)
+    * [Восстановление удалённых файлов](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/11-Bonus/Recovering-Deleted-Files.md)
 
 * * * 
 
