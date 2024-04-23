@@ -9,7 +9,7 @@
 2. [IP и MAC адреса](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#2-ip-и-mac-адреса)
 3. [Подсеть](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#3-подсеть)
 4. [TCP/UDP и Трехстороннее рукопожатие](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#4-tcpudp-и-трехстороннее-рукопожатие)
-5. Порты & Протоколы
+5. [Порты & Протоколы]()
 6. Модель OSI
 
 # 1. Введение
@@ -348,7 +348,7 @@ The three message mechanism is designed so that two computers that want to pass 
 
 ![wireshark](https://gist.githubusercontent.com/Samsar4/62886aac358c3d484a0ec17e8eb11266/raw/5213becc28e3f9f46c976d05cd090ffd070ff5d1/wireshark0.png)
 
-# 5. Ports & Protocols
+# 5. Порты & Протоколы
 ## What is a Port?
 In computer networking, a port is a communication endpoint. At the software level, within an operating system, a port is a logical construct that identifies a specific process or a type of network service.
 
@@ -397,7 +397,7 @@ As a penetration tester or ethical hacker you should be familiar with the common
     - **netstat -an** displays connections in numerical form
     - **netstat -b** displays executables tied to the open port (admin only)
 
-# 6. OSI Model
+# 6. Модель OSI
 OSI Model is a hypothetical networking framework that uses specific protocols and mechanisms in every layer of it. This model is used to divide the network architecture into seven different layers conceptually. These layers are:
 
 ![osi-model](https://gist.githubusercontent.com/Samsar4/62886aac358c3d484a0ec17e8eb11266/raw/3e2dc59e7c341f4d79b2b93bac03fd8378c7ae3a/tcpmo.jpg)
