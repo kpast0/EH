@@ -8,7 +8,7 @@
 1. [Введение](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#1-введение)
 2. [IP и MAC адреса](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#2-ip-и-mac-адреса)
 3. [Подсеть](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#3-подсеть)
-4. [TCP, UDP и Трехстороннее рукопожатие]()
+4. [TCP/UDP и Трехстороннее рукопожатие]()
 5. Порты & Протоколы
 6. Модель OSI
 
@@ -281,7 +281,7 @@ ________ ________
 ### ⚠️ MAC Addresses operates on Layer 2 of OSI Model
 ![osil2](https://gist.githubusercontent.com/Samsar4/62886aac358c3d484a0ec17e8eb11266/raw/b9d7f33be654d299f6618feeacb97fc5fd5bd7d2/OSI_L2.png)
 
-# 4. TCP/IP, UDP and 3-Way-Handshake
+# 4. TCP/UDP и Трехстороннее рукопожатие
 
 ## Transmission Control Protocol/Internet Protocol (TCP/IP)
 
