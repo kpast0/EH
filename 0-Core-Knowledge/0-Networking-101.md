@@ -1,18 +1,18 @@
-# Networking 101
-> ⚠ Networking 101 is a simple introduction to the most important network concepts for ethical hacking. This is a huge subject and is recommended to learn from different sources like courses, books and certifications like [Cisco CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) or [CompTIA Network+](https://www.comptia.org/certifications/network). Also there is a ton of **free training** out there, I recommend to [check this list](https://freetraining.dfirdiva.com/free-networking-training) later.
+# Сеть 101
+> ⚠ Сеть 101 представляет из себя простое введение в наиболее важные сетевые концепты этического хакинга. В целом это огромная тема и я рекомендую покурить различные источники по типу спецализированных курсов, книг, и сертификатов по типу [Cisco CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) или [CompTIA Network+](https://www.comptia.org/certifications/network). Кстати, тут вы можете найти кучу **бесплатного тернинга**, который я бы рекомендовал вам [посмотреть](https://freetraining.dfirdiva.com/free-networking-training) позднее.
 
-### Objectives
-* Understand network basic concepts 
+### Цели
+* Понимание базовых сетевых концептов 
 
-### **This module follows the order:**
-1. Introduction
-2. IP and MAC Addresses
-3. Subnetting
-4. TCP, UDP and 3-Way-Handshake
-5. Ports & Protocols
-6. OSI Model
+### **Этот модуль придерживается следующего порядка:**
+1. Введение
+2. IP и MAC адреса
+3. Подсеть
+4. TCP, UDP и Трехстороннее рукопожатие
+5. Порты & Протоколы
+6. Модель OSI
 
-# 1. Introduction
+# 1. Введение
 
 ## So, what the heck is a Network?
 A network consists of two or more computers that are linked in order to share resources. Computer networks are the basis of communication in IT. They are used in a huge variety of ways and can include many different types of network. A computer network is a set of computers that are connected together so that they can share information. The earliest examples of computer networks are from the 1960s, but they have come a long way in the half-century since then.
