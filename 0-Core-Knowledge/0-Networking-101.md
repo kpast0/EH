@@ -5,7 +5,7 @@
 * Понимание базовых сетевых концептов 
 
 ### **Этот модуль придерживается следующего порядка:**
-1. [Введение](/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#1-введение)
+1. [Введение](/0-Core-Knowledge/0-Networking-101.md#1-введение)
 2. [IP и MAC адреса](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#2-ip-и-mac-адреса)
 3. [Подсеть](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#3-подсеть)
 4. [TCP/UDP и Трехстороннее рукопожатие](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#4-tcpudp-и-трехстороннее-рукопожатие)
