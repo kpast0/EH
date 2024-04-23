@@ -32,7 +32,7 @@
 **Базовые знания содержат введение по работе с сетями, системами Linux, виртуализацией, созданием лабораторий, написанием скриптов, а также темами информационной безопасности. Если вы знакомы с этими темами, вы можете сразу перейти к модулю Этического взлома.**
 
 * [Сеть 101](/0-Core-Knowledge/0-Networking-101.md)
-* [Создание Лаборатории / Виртуализация](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/1-Lab-Building.md)
+* [Создание Лаборатории / Виртуализация](/0-Core-Knowledge/1-Lab-Building.md)
 * [Введение в Linux](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/2-Intro-to-Linux.md)
 * [Скриптование]()
 * [Информационная Безопасность 101](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/4-Infosec-101.md)
