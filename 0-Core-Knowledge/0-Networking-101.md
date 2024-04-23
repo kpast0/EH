@@ -5,7 +5,7 @@
 * Понимание базовых сетевых концептов 
 
 ### **Этот модуль придерживается следующего порядка:**
-1. Введение
+1. [Введение](https://github.com/BezShkvark0/Ethical-Hacking-Labs/blob/master/0-Core-Knowledge/0-Networking-101.md#1-введение)
 2. IP и MAC адреса
 3. Подсеть
 4. TCP, UDP и Трехстороннее рукопожатие
